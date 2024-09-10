@@ -1,0 +1,6 @@
+@Gorup6Test_HostAddress = http://localhost:5059
+
+GET {{Gorup6Test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
