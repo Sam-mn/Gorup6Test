@@ -8,8 +8,9 @@ namespace Gorup6Test.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Angeliki test"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Angeliki test", "Angeliki test2"
         };
+
 
         private readonly ILogger<WeatherForecastController> _logger;
 
