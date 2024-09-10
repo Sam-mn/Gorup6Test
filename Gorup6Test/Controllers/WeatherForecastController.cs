@@ -8,7 +8,8 @@ namespace Gorup6Test.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Angeliki test", "Samer Test", "Tonitest"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Angeliki test", "Samer Test"
+            , "samer new branch"
         };
 
 
